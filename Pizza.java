@@ -143,7 +143,7 @@ public class Ville {
       i++;
 
 
-    this.categorie = categories[];
+    this.categorie = categories[]
 
   }
 
